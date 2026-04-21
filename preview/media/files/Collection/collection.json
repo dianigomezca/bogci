@@ -1,0 +1,108 @@
+{
+  "protocol": {
+    "pid": "pid",
+    "lable": "lable",
+    "Año": "date",
+    "descripción": "text"
+  },
+  "items": [
+    {
+      "pid": "Bog1960_01",
+      "Autor": "Anónimo",
+      "Fecha ": 1960,
+      "Descripción  ": "Calles en Bogotá 1960",
+      "Medio": "Foto Digital",
+      "images": []
+    },
+    {
+      "pid": "Bog1970_02",
+      "Autor": "Anónimo",
+      "Fecha ": 1970,
+      "Descripción  ": "Bogotá Taxis 1970",
+      "Medio": "Foto Digital",
+      "images": [
+        "file:///C:\\Users\\diani\\Documents\\Publii\\sites\\bogci\\preview/media/files/collection/images/Bog1970_02.jpg"
+      ]
+    },
+    {
+      "pid": "Bog1974_03",
+      "Autor": "Biblioteca Digital de Bogotá",
+      "Fecha ": 1974,
+      "Descripción  ": "Ciclistas en su paso por la Plaza de Bolívar. ",
+      "Medio": "Foto Digital",
+      "images": [
+        "file:///C:\\Users\\diani\\Documents\\Publii\\sites\\bogci\\preview/media/files/collection/images/Bog1974_03.jpg"
+      ]
+    },
+    {
+      "pid": "Bog1967_04",
+      "Autor": "Biblioteca Digital de Bogotá",
+      "Fecha ": 1967,
+      "Descripción  ": "Competencia ciclística, carrera 10 por Avenida Jiménez.",
+      "Medio": "Foto Digital",
+      "images": [
+        "file:///C:\\Users\\diani\\Documents\\Publii\\sites\\bogci\\preview/media/files/collection/images/Bog1967_04.jpg"
+      ]
+    },
+    {
+      "pid": "Bog1950_05",
+      "Autor": "Album Familiar Bogotá",
+      "Fecha ": 1950,
+      "Descripción  ": "Matrimonio 1950-matrimonio 1900",
+      "Medio": "Foto Digital",
+      "images": [
+        "file:///C:\\Users\\diani\\Documents\\Publii\\sites\\bogci\\preview/media/files/collection/images/Bog1950_05.jpg"
+      ]
+    },
+    {
+      "pid": "Bog1985_06",
+      "Autor": "Album Familiar Bogotá",
+      "Fecha ": 1985,
+      "Descripción  ": "Mis Adorados Nietos. Villa del Prado Bogotá",
+      "Medio": "Foto Digital",
+      "images": [
+        "file:///C:\\Users\\diani\\Documents\\Publii\\sites\\bogci\\preview/media/files/collection/images/Bog1985_06.jpg"
+      ]
+    },
+    {
+      "pid": "Bog1965_07",
+      "Autor": "Album Familiar Bogotá",
+      "Fecha ": 1965,
+      "Descripción  ": "Desfile de la juventud",
+      "Medio": "Foto Digital",
+      "images": [
+        "file:///C:\\Users\\diani\\Documents\\Publii\\sites\\bogci\\preview/media/files/collection/images/Bog1965_07.jpg"
+      ]
+    },
+    {
+      "pid": "Bog1951_08",
+      "Autor": "Album Familiar Bogotá",
+      "Fecha ": 1951,
+      "Descripción  ": "Del Lago Gaitan a Unilago",
+      "Medio": "Foto Digital",
+      "images": [
+        "file:///C:\\Users\\diani\\Documents\\Publii\\sites\\bogci\\preview/media/files/collection/images/Bog1951_08.jpg"
+      ]
+    },
+    {
+      "pid": "Bog1950_09",
+      "Autor": "Fototeca digital del archivo de Bogotá",
+      "Fecha ": 1950,
+      "Descripción  ": "Ambulancia de la cruz roja",
+      "Medio": "Foto Digital",
+      "images": [
+        "file:///C:\\Users\\diani\\Documents\\Publii\\sites\\bogci\\preview/media/files/collection/images/Bog1950_09.jpg"
+      ]
+    },
+    {
+      "pid": "Bog1954_10",
+      "Autor": "Fototeca digital del archivo de Bogotá",
+      "Fecha ": 1954,
+      "Descripción  ": "Banco de Bogota Carrera séptima",
+      "Medio": "Foto Digital",
+      "images": [
+        "file:///C:\\Users\\diani\\Documents\\Publii\\sites\\bogci\\preview/media/files/collection/images/Bog1954_10.jpg"
+      ]
+    }
+  ]
+}

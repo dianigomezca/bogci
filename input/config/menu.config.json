@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Principal",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1776656387196,
+                "label": "Viaje",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1776656862586,
+                "label": "Explorar",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 3,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]

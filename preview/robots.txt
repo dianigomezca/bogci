@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\diani\Documents\Publii\sites\bogci\preview/sitemap.xml
