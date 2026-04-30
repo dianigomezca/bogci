@@ -2,9 +2,10 @@
   "protocol": {
     "pid": "pid",
     "label": "label",
+    "autor": "text",
     "año": "date",
     "descripción": "text",
-    "link": "url"
+    "url": "url"
   },
   "items": [
     {
